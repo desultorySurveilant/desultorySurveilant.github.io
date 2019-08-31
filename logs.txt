@@ -102,6 +102,7 @@ dear_sweet_precious
 decay
 doll
 dollsim
+DollSim_Video_Audio
 domain
 dqon
 echidnalaugh
@@ -111,6 +112,7 @@ echidnaScience
 ego
 exilethebody
 explode
+exploit_the_rules
 fan_cd_waste
 fiddle
 find_me
@@ -189,6 +191,7 @@ metalPrince
 metametameta
 mindstrings
 mindtimebadideas
+nazar
 nebulousHarmony1
 nebulousHarmony2
 nebulousHarmony3
@@ -212,6 +215,7 @@ notrees
 null
 outbreak
 owo
+oxbow_lakes
 piano
 Please_Hold_V2
 prince
@@ -299,6 +303,7 @@ waste_of_space_lands
 wasted
 weird
 what_is_farragnarok
+who_is_jr
 whoshogunactuallyis
 Wiggling_Time
 wis
