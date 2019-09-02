@@ -31,6 +31,7 @@ arms
 asdfghjkl
 a_matter_of_perspective
 barrybonds
+bear_alert
 besafe
 betterthanexpected
 birdRealm0
