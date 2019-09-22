@@ -104,6 +104,7 @@ dead_session_asshole
 death_and_you
 dear_sweet_precious
 decay
+disgustingkind
 doll
 dollsim
 DollSim_Video_Audio
@@ -220,6 +221,7 @@ nope3
 note_to_self
 notrees
 null
+nullorigin
 omelas
 outbreak
 owo
@@ -257,6 +259,7 @@ sandwich
 Saphire_Spires
 sburbsimyellowyard1
 sburbsimyellowyard2
+scratchvoicemail
 secretalligators
 segundia
 shittypuzzles
@@ -310,6 +313,7 @@ verystrong
 victory
 void
 voidplayers
+waiting
 warning
 waste_of_mind
 waste_of_space_lands
