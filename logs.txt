@@ -162,6 +162,7 @@ glory
 gnome_megalovania_butler_fuck
 goodboi
 graceofrage
+Gramaphone_1
 Grok
 guarded_mythos
 heartvsmind
@@ -179,6 +180,7 @@ jingle_lore
 jr_is_a_jar
 jr_is_the_man
 jryardspiel
+just_rages_for_a_while
 justdontdoit
 karmicRetribution0
 karmicRetribution1
@@ -231,6 +233,7 @@ null
 nullorigin
 omelas
 on_brand
+operation_not_permitted
 outbreak
 owo
 oxbow_lakes
@@ -314,6 +317,7 @@ traitsItemsAlchemy
 truerootgod
 turtles
 turtles2
+twoprongs
 Vargrant
 Vethrfolnir
 Verthfolnir_Podcast
