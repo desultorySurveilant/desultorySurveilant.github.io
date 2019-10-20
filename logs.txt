@@ -163,6 +163,7 @@ gnome_megalovania_butler_fuck
 goodboi
 graceofrage
 Gramaphone_1
+Gramaphone_2
 Grok
 guarded_mythos
 heartvsmind
@@ -333,6 +334,7 @@ waste_of_space_lands
 wasted
 weird
 what_is_farragnarok
+whitehats
 who_is_jr
 whoshogunactuallyis
 Wiggling_Time
