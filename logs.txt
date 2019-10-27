@@ -107,6 +107,7 @@ death_and_you
 dear_sweet_precious
 decay
 disgustingkind
+dodge_this_moist_pimp
 doll
 dollsim
 DollSim_Video_Audio
@@ -118,6 +119,7 @@ echidnamilk
 echidnas
 echidnaScience
 ego
+escape_the_waste
 exilethebody
 explode
 exploit_the_rules
@@ -168,6 +170,7 @@ Gramaphone_2
 grim_fandan_girl
 Grok
 guarded_mythos
+hearttime
 heartvsmind
 hello_butler_bot
 hello_world
@@ -211,6 +214,7 @@ metalPrince
 metametameta
 mindstrings
 mindtimebadideas
+Mutation
 nazar
 nebulousHarmony1
 nebulousHarmony2
@@ -300,6 +304,7 @@ so_fucking_smug
 songs_to_code_by_jrs_lament_cipah
 space
 Splinters_of_Royalty
+stealingfromhussie
 sun_swallower
 svg
 tableGuardian1
