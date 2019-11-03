@@ -30,6 +30,7 @@ Ares_Scordatura
 argsaremypassion
 arms
 asdfghjkl
+author_bot_demands
 a_matter_of_perspective
 Backrooms
 barrybonds
@@ -281,6 +282,7 @@ sburbsimyellowyard2
 scratchvoicemail
 secretalligators
 segundia
+seven
 shittypuzzles
 Shooting_Gallery
 shogun0
@@ -296,7 +298,7 @@ shogun9
 shogun10
 shogun11
 shogun12
-seven
+skian_magicent
 smokey
 smokeyEternal
 so_fucking_meta
