@@ -214,6 +214,7 @@ lomat_by_fan_gnome
 lte
 manifesto
 manipulation
+manipulation2
 metalPrince
 metametameta
 mindstrings
@@ -321,6 +322,7 @@ tableGuardian5
 tableGuardian6
 tableGuardian6b
 tableGuardian7
+thanks
 there_will_be_consequences
 the_first_lunch
 theuniverseclock
