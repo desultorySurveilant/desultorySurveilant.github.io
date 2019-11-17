@@ -215,6 +215,7 @@ lte
 manifesto
 manipulation
 manipulation2
+manipulation3
 metalPrince
 metametameta
 mindstrings
