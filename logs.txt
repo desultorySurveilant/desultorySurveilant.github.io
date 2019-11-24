@@ -64,6 +64,7 @@ BloodStudy_Joy
 BloodStudy_Leader
 BloodStudy_Mutant
 BloodStudy_Missing
+brick
 cant
 CaseStudy_Index
 CaseStudy_Opening
