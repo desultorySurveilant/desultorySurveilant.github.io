@@ -65,6 +65,7 @@ BloodStudy_Leader
 BloodStudy_Mutant
 BloodStudy_Missing
 brick
+butler_bot_apology
 cant
 CaseStudy_Index
 CaseStudy_Opening
