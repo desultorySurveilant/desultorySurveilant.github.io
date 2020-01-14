@@ -4,6 +4,7 @@
 204
 85
 858
+1669
 ab2
 ab3
 ab4
@@ -178,6 +179,7 @@ Gramaphone_1
 Gramaphone_2
 grim_fandan_girl
 Grok
+ground_nut
 guarded_mythos
 hahawhoops
 hearttime
@@ -193,6 +195,7 @@ hussie
 i_can_fix_this_ghoa
 ill_sue_you
 inheritance
+its_congratulations_solved
 jingle_lore
 jr_is_a_jar
 jr_is_the_man
