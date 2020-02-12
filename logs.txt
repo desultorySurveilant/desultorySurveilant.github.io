@@ -284,6 +284,8 @@ radio_your_name
 radio_name
 radio_a_tree
 radio_nothing
+radio_when_opened_both_are_read
+radio_when_opened_both_are_red
 rage
 realness_quotient
 reconfiguration
