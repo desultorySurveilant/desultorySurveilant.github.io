@@ -39,6 +39,7 @@ Backrooms
 barrybonds
 bbhugeramble_01hooks
 bbhugeramble_02superb_owl
+bbhugeramble_05island
 bbhugeramble_07fanfiction_lake
 bear_alert
 besafe
@@ -233,6 +234,7 @@ metalPrince
 metametameta
 mindstrings
 mindtimebadideas
+Mr_Jerry_Mandor
 Mutation
 nazar
 nebulousHarmony1
@@ -332,6 +334,7 @@ songs_to_code_by_jrs_lament_cipah
 space
 Splinters_of_Royalty
 stealingfromhussie
+storytime
 sun_swallower
 svg
 tableGuardian1
@@ -369,6 +372,7 @@ waste_of_mind
 waste_of_space_lands
 wasted
 weird
+weirdambient
 what_is_farragnarok
 whitehats
 who_is_jr
