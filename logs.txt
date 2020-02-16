@@ -278,6 +278,7 @@ radio_a_river
 radio_a_man
 radio_a_clock
 radio_the_yellow_yard
+radio_yellow_yard
 radio_an_apple
 radio_a_peacock
 radio_an_egg
