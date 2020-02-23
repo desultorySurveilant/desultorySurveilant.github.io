@@ -39,6 +39,7 @@ Backrooms
 barrybonds
 bbhugeramble_01hooks
 bbhugeramble_02superb_owl
+bbhugeramble_04heir
 bbhugeramble_05island
 bbhugeramble_07fanfiction_lake
 bear_alert
@@ -155,6 +156,7 @@ fuck7
 fuck8
 fuck9
 fuck10
+GARDEN2
 ghoa
 ghoameta
 gianthonkers
