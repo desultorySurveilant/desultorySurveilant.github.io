@@ -42,6 +42,7 @@ bbhugeramble_02superb_owl
 bbhugeramble_03skullfriends
 bbhugeramble_04heir
 bbhugeramble_05island
+bbhugeramble_06hate
 bbhugeramble_07fanfiction_lake
 bear_alert
 besafe
@@ -386,6 +387,7 @@ whoshogunactuallyis
 Wiggling_Time
 wis
 wolfcop
+year3practice
 yearnfulNode1
 yearnfulNode2
 yearnfulNode3
