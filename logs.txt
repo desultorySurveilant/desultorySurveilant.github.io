@@ -121,6 +121,7 @@ dead_session_asshole
 death_and_you
 dear_sweet_precious
 decay
+dirk_gentle
 disgustingkind
 dodge_this_moist_pimp
 doll
@@ -205,6 +206,8 @@ homestuck
 horses
 hussie
 i_can_fix_this_ghoa
+io_interview
+its going to be okay
 ill_sue_you
 inheritance
 jingle_lore
@@ -300,6 +303,7 @@ radio_nothing
 radio_when_opened_both_are_read
 radio_when_opened_both_are_red
 radio_holes
+radio_a_musician
 rage
 realness_quotient
 reconfiguration
@@ -389,6 +393,7 @@ what_is_farragnarok
 whitehats
 who_is_jr
 whoshogunactuallyis
+WigglersimPodcast
 Wiggling_Time
 wis
 wolfcop
