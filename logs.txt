@@ -390,6 +390,7 @@ waiting
 warning
 waste_of_mind
 waste_of_space_lands
+wastetree
 wasted
 weird
 weirdambient
